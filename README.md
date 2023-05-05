@@ -24,5 +24,5 @@ a. http://localhost:3000
 ![image](https://user-images.githubusercontent.com/73180409/236408479-9843ffbc-cd6b-4b00-bfc1-54a4718dc9ef.png)
 
 
-
+> Note: Make sure your backend and frontend project is runing.
 
